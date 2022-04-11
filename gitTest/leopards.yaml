@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Nora
 
+<<<<<<< HEAD:gitTest/leopards.yaml
 coach: Nicholas
+=======
+coach: Melisa
+>>>>>>> 5fd4f1a (Edit Panthers):gitTest/lopards.yaml
 
 members:
 - Linda
